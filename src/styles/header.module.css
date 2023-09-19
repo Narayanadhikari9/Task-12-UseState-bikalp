@@ -1,0 +1,7 @@
+.header {
+  background-color: hsl(189, 90%, 25%);
+  color: white !important;
+  padding: 1rem;
+  text-align: center;
+  font-size: x-large;
+}
